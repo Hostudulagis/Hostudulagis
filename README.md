@@ -19,4 +19,3 @@
 🌟 **[Secure API](#)** - A .NET Core API with JWT authentication & security  
 🌟 **[Bug Fixing Portfolio](#)** - Case studies on debugging and performance improvements  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
