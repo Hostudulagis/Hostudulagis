@@ -9,10 +9,9 @@
 
 ## 💻 Tech Stack:
 ✔ **Backend:** .NET Core, C#, Dapper ORM, Entity Framework  
-✔ **Database:** MSSQL, MySQL, PostgreSQL  
+✔ **Database:** MSSQL  
 ✔ **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-✔ **Security:** Azure Key Vault, Data Protection  
-✔ **Tools:** Git, GitHub, Docker, Postman
+✔ **Security:** Cryptography, Data Protection  
 
 ## 📌 Featured Projects:
 🌟 **[CRUD Web App](#)** - A .NET Core MVC project with MSSQL & Dapper  
